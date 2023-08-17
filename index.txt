@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Prashanth MG
+Prashanth MG
 Web developer
 
 Show Contacts
