@@ -157,8 +157,7 @@ html { font-family: var(--ff-poppins); }
 
 body { background: var(--smoky-black); }
 
-
-
+.skill {color: var(--orange-yellow-crayola); }
 
 
 /*-----------------------------------*\
@@ -867,6 +866,9 @@ main {
   border-radius: inherit;
 }
 
+.skill-header {
+  color: var(--orange-yellow-crayola); 
+}
 
 
 
